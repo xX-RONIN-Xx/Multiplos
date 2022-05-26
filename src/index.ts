@@ -9,3 +9,4 @@ if (esMultiplo(data1, data2)) {
 } else {
   console.log(data1 + " No es múltiplo de " + data2);
 }
+//Esta muy bien tu solucion!
